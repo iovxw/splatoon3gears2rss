@@ -1,0 +1,12 @@
+{
+  "name": "splatoon3gears2rss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iovxw/splatoon3gears2rss",
+  "author": "iovxw",
+  "license": "UNLICENSE",
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "2.1.6"
+  }
+}
